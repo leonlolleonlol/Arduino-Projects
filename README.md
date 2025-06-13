@@ -7,3 +7,4 @@ Here are some projects I have done with Arduino Mega:
 5. Mini Piano with passive buzzer qwertyuiop are white keys and 12456890- are black keys
 6. Motion detector with active buzzer
 7. Servo Motor controlled by rotary module
+8. Timer - Keypad and active buzzer
