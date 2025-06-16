@@ -8,3 +8,4 @@ Here are some projects I have done with Arduino Mega:
 6. Motion detector with active buzzer
 7. Servo Motor controlled by rotary module
 8. Timer - Keypad and active buzzer
+9. Snake Game on 8x8 matrix and joystick
