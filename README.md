@@ -10,3 +10,4 @@ Here are some projects I have done with Arduino Mega:
 8. Timer - Keypad and active buzzer
 9. Snake Game on 8x8 matrix and joystick
 10. 3D model animation with Processing from GY-521 gyroscope data
+11. Testing humidity and temperature with DHT11
