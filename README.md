@@ -12,3 +12,4 @@ Here are some projects I have done with Arduino Mega:
 10. 3D model animation with Processing from GY-521 gyroscope data
 11. Testing humidity and temperature with DHT11
 12. Security system with passive buzzer
+13. Audio recorder and live audio bar display
